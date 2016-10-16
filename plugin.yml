@@ -1,0 +1,7 @@
+main: fr.poulpi.IronStones.IronStones
+name: IronStones
+version: 1.0
+author: Poulpinounette
+commands:
+   menu:
+   ironRl:
